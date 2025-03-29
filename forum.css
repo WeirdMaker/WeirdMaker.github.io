@@ -49,3 +49,7 @@ footer {
     align-items: center; 
     font-size: large;
 }
+
+a {
+    color: rgb(0,250,250)
+}
