@@ -53,6 +53,7 @@ p {
 pre {
     text-align: center;
     height: 60px;
+    font-size: 30px;
     background-color: rgb(255,0,0);
     color: rgb(0, 0, 0);
     white-space: pre-wrap;
