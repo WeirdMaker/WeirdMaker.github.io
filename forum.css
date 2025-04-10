@@ -67,8 +67,6 @@ h3 {
 
 .post {
     border-radius: 25px;
-    padding: auto;
-    width: auto;
-    height: auto;
+    border: 2px solid #ffffff;
     background-color: #5a5a5a;
 }
