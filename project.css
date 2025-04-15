@@ -5,7 +5,7 @@ body {
 }
 
 /* Add a black background color to the top navigation */
-av {
+nav {
     background-color: #5a5a5a;
     overflow: hidden;
 }
