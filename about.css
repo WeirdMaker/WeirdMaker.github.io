@@ -71,3 +71,7 @@ p {
 a {
     color: rgb(0,250,250)
 }
+
+li::marker {
+  color: white;
+}
