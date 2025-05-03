@@ -70,3 +70,7 @@ section {
     border: 2px solid #ffffff;
     background-color: #5a5a5a;
 }
+
+li::marker {
+  color: white;
+}
