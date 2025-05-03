@@ -66,3 +66,7 @@ a {
 section {
     max-width: 100%;
 }
+
+li::marker {
+  color: white;
+}
