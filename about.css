@@ -80,4 +80,10 @@ legend {
     color: white;
 }
 
+fieldset input {
+  width: 100%;
+  box-sizing: border-box; /* This is important! */
+}
+
+
 
