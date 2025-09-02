@@ -83,7 +83,9 @@ legend {
 fieldset input {
   width: 100%;
   box-sizing: border-box; /* This is important! */
+  height: 30px;
 }
+
 
 
 
